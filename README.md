@@ -30,8 +30,8 @@ Select the output folder.
 ### Step 6
 Generate your e-Certificates after preview!
 
-**Generate Sample** – Creates a single sample certificate in the specified output folder (Preview).
-**Generate All** – Generates all the certificates to the output folder (Verify all once before email).
+**Generate Sample** – Creates a single sample certificate in the specified output folder (Preview).  
+**Generate All** – Generates all the certificates to the output folder (Verify all once before email).  
 **Generate + Email** – Generates all the certificates and emails them. 
 
 **NOTE:**  For auto-mailing, a good internet connection is recommended as around 1.5 MB of attachments is to be uploaded per email. The software may sometimes freeze or hang, wait until the progress bar completes. Mailed ID will be **ps2017.certificate@gmail.com**.
