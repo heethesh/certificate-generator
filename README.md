@@ -19,7 +19,7 @@ Save the excel sheet in ***.xlsx*** format.
 Open the ***PhaseShift 2017 e-Certificate Generator*** software and browse for your excel sheet.
 
 ### Step 3
-You can select a company logo to be displayed on the top right corner. This is optional. Click the checkbox and select the company logo. ** NOTE:** Make sure the logo is cropped properly and excess space is trimmed. **PNG** format is preferred.
+You can select a company logo to be displayed on the top right corner. This is optional. Click the checkbox and select the company logo. **NOTE:** Make sure the logo is cropped properly and excess space is trimmed. **PNG** format is preferred.
 
 ### Step 4
 You have the option to choose between a light and a dark background for the company logo (based on the logo colors). You can also create and choose a custom background template.
