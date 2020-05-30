@@ -1,7 +1,7 @@
 ## PhaseShift 2017 e-Certificate Generator
 Application which generates e-Certificates in bulk and emails them to participants. Developed for PhaseShift 2017.
 
-I no longer maintain this repository. This was developed long back for a specific purpose and I only released the source as I got many requests. Use this only for reference. I've also included the Windows executable in `release` folder for reference, but this will not be able to send emails or provide the option to customize certificate content.
+**NOTE:** I no longer maintain this repository. This was developed long back for a specific purpose and I only released the source as I got many requests. Use this only for reference. I've also included the Windows executable in `release` folder for reference, but this will not be able to send emails or provide the option to customize certificate content.
 
 ## Setup and Build
 
