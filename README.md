@@ -1,9 +1,21 @@
 ## PhaseShift 2017 e-Certificate Generator
 Application which generates e-Certificates in bulk and emails them to participants. Developed for PhaseShift 2017.
 
+I no longer maintain this repository. This was developed long back for a specific purpose and I only released the source as I got many requests. Use this only for reference. I've also included the Windows executable in `release` folder for reference, but this will not be able to send emails or provide the option to customize certificate content.
+
+## Setup and Build
+
+This application is developed in Python2 using Tkinter for GUI. I also provide the PyInstaller spec file so that you can use this to create an executable file for deployment. This application was developed for use on Windows, but should work on Linux as well I think.
+
+The application basically takes an Excel sheet as an input, optional logo to display on top-right corner and prints some data on template certificate images in a batch. Finally, it helps email all the certificate images in a batch.
+
+The background template images, fonts, some logos and icons are all bundled together using PyInstaller when building the executable, so make sure you update the paths in `app.py` and `app.spec` accordingly if you want to deploy. If you just want to run the script directly, you may not need to handle the resources in `app.spec`. 
+
+**NOTE:** Please see `app.py` for comments and remember to set `FROM_EMAIL` and `FROM_EMAIL_PASSWORD`.
+
 Refer docs folder for tutorial and sample Excel sheet.
 
-## Tutorial
+## Application Tutorial
 ### Step 1
 
 Prepare the excel sheet as per the format below.
